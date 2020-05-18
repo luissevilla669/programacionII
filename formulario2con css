@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario2</title>
+	<link rel="stylesheet" href="style.css">
+	
+</head>
+<body>
+	<form action="">
+			<div class="search_bar">C.I
+			<input type="text" class="bar" placeholder="Cedula">
+		</div>
+		
+
+		<div class="search_bar">Apellidos
+			<input type="text" class="bar" placeholder="Apellidos">
+			</div>
+
+		<div class="search_bar">Nombres
+			<input type="text" class="bar" placeholder="Nombres">
+			</div>
+		
+		
+		<div class="search_bar">Estado
+			<input type="text" class="bar" placeholder="Estado">
+			</div>
+		
+		<div class="search_bar">Municipio
+			<input type="text" class="bar" placeholder="Municipio">
+			</div>
+		
+		<div class="search_bar">Telefono
+			<input type="text" class="bar" placeholder="Telefono">
+			</div>
+		
+		<div class="search_bar">Gmail
+			<input type="text" class="bar" placeholder="correo">
+			</div>
+		
+
+		<p class="center-content">
+			<input type="submit" class="btn btn-green" value="Guardar">
+		</p>
+
+	</form>
+</body>
+</html>
